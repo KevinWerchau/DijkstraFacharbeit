@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Stra\u00DFe
+comment1.params=Std1\ Std2\ l
+comment1.target=Stra\u00DFe(Stadt,\ Stadt,\ int)
+comment2.params=s
+comment2.target=int\ compareTo(Stra\u00DFe)
+comment3.params=
+comment3.target=int\ gibLaenge()
+comment4.params=l
+comment4.target=void\ setzeLaenge(int)
+comment5.params=
+comment5.target=Stadt\ gibStadt1()
+comment6.params=
+comment6.target=Stadt\ gibStadt2()
+comment7.params=std
+comment7.target=void\ setzeStadt1(Stadt)
+comment8.params=std
+comment8.target=void\ setzeStadt2(Stadt)
+numComments=9
